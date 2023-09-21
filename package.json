@@ -1,0 +1,28 @@
+{
+  "name": "todo-electron-next",
+  "version": "1.0.0",
+  "description": "The todo list using Electron and Next.js",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ./main.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Pluto0104/todo-electron-next.js.git"
+  },
+  "keywords": [
+    "todo",
+    "electron",
+    "next.js"
+  ],
+  "author": "Pluto",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Pluto0104/todo-electron-next.js/issues"
+  },
+  "homepage": "https://github.com/Pluto0104/todo-electron-next.js#readme",
+  "devDependencies": {
+    "electron": "^26.2.2"
+  }
+}
